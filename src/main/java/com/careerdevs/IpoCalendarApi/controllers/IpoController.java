@@ -22,3 +22,4 @@ public class IpoController {
             return "testing, request received";
     }
 }
+//RootRoute: domain w/ the protocol dependant on the server we're interacting with
